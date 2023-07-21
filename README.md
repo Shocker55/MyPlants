@@ -85,3 +85,6 @@
 - Docker
 - AWS
 
+### 画面遷移図
+https://www.figma.com/file/94aBqkdlwTqNyVybV0E0Ih/MyPlants?type=design&node-id=0%3A1&mode=design&t=QgtIWSJNYG2CM9z8-1
+
