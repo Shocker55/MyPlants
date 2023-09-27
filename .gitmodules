@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/Shocker55/my_plants-front
+[submodule "api"]
+	path = api
+	url = https://github.com/Shocker55/my_plants-back
