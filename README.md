@@ -1,4 +1,7 @@
 # MyPlants
+### URL
+https://web.my-plants.online/
+
 ### サービスの概要
 「多肉植物に興味はあるが、育て方やイベントの参加に不安を感じる」という悩みを持つ人に  
 「多肉植物の記録を共有、また多肉植物のイベント参加管理」を提供する  
@@ -84,3 +87,5 @@
 ### 画面遷移図
 https://www.figma.com/file/94aBqkdlwTqNyVybV0E0Ih/MyPlants?type=design&node-id=0%3A1&mode=design&t=QgtIWSJNYG2CM9z8-1
 
+### ER図
+![MyPlants_ER_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/528ccbeb-9e23-4fab-91de-3e089eeb3af1)
