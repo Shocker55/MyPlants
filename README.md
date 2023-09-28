@@ -87,5 +87,8 @@ https://web.my-plants.online/
 ### 画面遷移図
 https://www.figma.com/file/94aBqkdlwTqNyVybV0E0Ih/MyPlants?type=design&node-id=0%3A1&mode=design&t=QgtIWSJNYG2CM9z8-1
 
+### インフラ構成図
+![MyPlants_Infra_conf_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/83a79b95-51eb-4f28-ba81-34fc991775f7)
+
 ### ER図
 ![MyPlants_ER_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/528ccbeb-9e23-4fab-91de-3e089eeb3af1)
