@@ -1,7 +1,4 @@
 # MyPlants
-### URL
-https://web.my-plants.online/
-
 ### サービスの概要
 「多肉植物に興味はあるが、育て方やイベントの参加に不安を感じる」という悩みを持つ人に  
 「多肉植物の記録を共有、また多肉植物のイベント参加管理」を提供する  
@@ -55,14 +52,19 @@ https://web.my-plants.online/
         - イベント管理機機能
             - タイトル、日付、場所、参考URlをイベントとして投稿できる
             - イベントへ参加するユーザーの一覧表示 
+            - 女性でも参加しやすいように、参加するユーザーの性別が判断できる
             - 投稿へのお気に入り機能 
             - 投稿へのコメント機能
+            - 投稿へのいいね機能
             - 検索機能
+            - 投稿数に応じてマイページに表示されるヒートマップが変化する
             - 他の SNS　に OGP シェアできる機能
         - マイページ機能
             - プロフィール(アバター画像、名前、メールアドレス、好きな植物)
             - 検索機能
             - フォロー、フォロワー機能
+            - DM機能
+
 
 ### なぜこのサービスを作りたいのか?
 一人でも管理しやすい、多肉植物の魅力をさらに広めたい。
@@ -71,24 +73,14 @@ https://web.my-plants.online/
 ### スケジュール
 1. 企画（アイデア企画・技術調査）：6/11〆切
 2. 設計（README作成・画面遷移図作成・ER図作成）：6/13 〆切
-3. 機能実装：6/13 - 9/10
-4. MVPリリース：9/10〆切
-5. 本リリース：9/31
+3. 機能実装：6/13 - 7/10
+4. MVPリリース：7/10〆切
+5. 本リリース：7/31
 
 ### 技術選定
 - Rails 7.0.4
 - Ruby 3.2.2
 - MySQL
-- Next.js
+- React
 - Docker
-- Vercel
-- AWS (ECS on Fargate, S3)
-
-### 画面遷移図
-https://www.figma.com/file/94aBqkdlwTqNyVybV0E0Ih/MyPlants?type=design&node-id=0%3A1&mode=design&t=QgtIWSJNYG2CM9z8-1
-
-### インフラ構成図
-![MyPlants_Infra_conf_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/83a79b95-51eb-4f28-ba81-34fc991775f7)
-
-### ER図
-![MyPlants_ER_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/528ccbeb-9e23-4fab-91de-3e089eeb3af1)
+- AWS
