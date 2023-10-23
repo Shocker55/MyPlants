@@ -98,4 +98,4 @@ https://www.figma.com/file/94aBqkdlwTqNyVybV0E0Ih/MyPlants?type=design&node-id=0
 ![MyPlants_Infra_conf_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/83a79b95-51eb-4f28-ba81-34fc991775f7)
 
 ### ER図
-![MyPlants_ER_20230928](https://github.com/Shocker55/MyPlants/assets/115390088/528ccbeb-9e23-4fab-91de-3e089eeb3af1)
+![MyPlants_ER_20231023](https://github.com/Shocker55/MyPlants/assets/115390088/5e8134b3-b89b-424e-8b51-de7dc8639755)
