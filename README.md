@@ -2,7 +2,9 @@
 MyPlantsは、多肉植物の育成記録を共有し、関連するイベントへの参加を管理するためのサービスです。<br/>
 多肉植物とそれに関連するイベントに関する情報を整理・保存することができます。
 ### サービスURL
-https://web.my-plants.online/
+https://my-plants-front.vercel.app/
+
+2024年5月現在は、料金の都合によりバックエンドのデプロイ先をAWS Fargate -> Heroku に変更しております。
 <br/>
 
 ---
